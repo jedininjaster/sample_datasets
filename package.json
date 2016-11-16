@@ -2,7 +2,7 @@
   "name": "sample_datasets",
   "version": "1.0.0",
   "description": "static d3 datasets",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "browserify index.js -t [ babelify --presets es2015 ] | uglifyjs > dist.js"
   },
