@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     "date": "2011-10-01T04:00:00.000Z",
     "New York": 63.4,

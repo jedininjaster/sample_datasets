@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     "letter": "A",
     "frequency": 0.08167

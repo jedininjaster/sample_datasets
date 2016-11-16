@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     "State": "AL",
     "Under 5 Years": 310504,
